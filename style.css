@@ -176,5 +176,44 @@ color: white;
 }
   
    
+/* inquiry section design */
+
+#inquiry{
+        display: flex;
+         max-width: 50%;  
+         margin:2% auto;
+         padding:2% 5%;
+    background: url(images/shape/Group_33094_1.png);
+     
+   
+
+}
+ .inquiry-title h4{
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    margin-top: 29px;
     
- 
+     
+ }
+
+ .inquiry-title{
+    width: 50%;
+ }
+ .inquiry-btn{
+    width: 50%;
+     margin: 20px auto;
+ }
+  
+
+ /* services design starts */
+
+
+ #services-section{
+
+ }
+ #services-section h4{
+    font-size: 50px;
+    text-align: center;
+ }
