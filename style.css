@@ -141,3 +141,40 @@ button:hover{
 .card-link{
     margin-bottom: 20px;
 }
+
+
+/* about us section design starts here */
+
+#about-section{
+background: black;
+color: white;
+}
+#about-section h3{
+    font-size: 57px;
+    text-align: center;
+}
+
+.about-card{
+   display: flex;
+   padding: 2%;
+   
+} 
+ .about-img img{
+   
+ }
+.about-desc h4{
+     font-size: 40px;
+}
+.about-desc p{
+    margin-bottom: 10px;
+    line-height: 28px;
+    word-spacing: 3px;
+
+}
+.about-desc ul li{
+ margin: 10px;
+}
+  
+   
+    
+ 
