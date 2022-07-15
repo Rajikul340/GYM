@@ -211,9 +211,97 @@ color: white;
 
 
  #services-section{
-
+     margin:  auto;
  }
  #services-section h4{
     font-size: 50px;
     text-align: center;
  }
+ .servic-box-img img{
+    width: 100%;
+  border-radius: 2%;
+  
+ }
+ .service-card{
+  
+   display: flex;
+   align-items: center;
+    
+   
+  
+ }
+ .service-box-span p{
+   color: red;
+ }
+ .service-singlebox{
+     width: 25%;
+     margin: 3% auto;
+    box-shadow:3px 2px 11px 4px #160d0d2b;
+ }
+ .service-box-span{
+
+  padding: 5px;
+ }
+ .service-box-title h5{
+   font-size: 23px;
+ }
+ .service-box-title{
+    padding: 5px;
+ }
+.name-alex{
+    color: black;
+    font-size: 15px;
+}
+.service-box-price{
+    display: flex;
+    padding: 5px;
+ 
+}
+.servic-desc{
+    padding: 10px;
+     
+}
+.service-box-price span{
+    width: 50%;
+    color: red;
+
+}
+.price{
+ 
+    font-size: 25px; 
+}
+
+/* footer desgn start here */
+
+      hr{
+        width: 80%;
+        margin: 10% auto;
+      }
+      
+      .footer-list h5 {
+        font-size: 20px;
+          
+         text-align: center;
+      }
+      .footer-list h5 a{
+        padding: 5px;
+        color: black;
+        font-weight: bolder;
+        text-decoration: none;
+      }
+      .footer-list h5 a:hover{
+        color: red;
+        text-decoration:underline;
+      }
+      footer{
+        margin: 100px;
+      }
+
+      .footer-span {
+
+      }
+      .footer-span p{
+        text-align: center;
+       padding: 10px;
+       font-size: 15px;
+      }
